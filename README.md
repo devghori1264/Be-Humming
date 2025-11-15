@@ -44,7 +44,7 @@ This is a professional tool, so installation has two parts. First, our code. Sec
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/be-humming.git
+git clone https://github.com/devghori1264/be-humming.git
 cd be-humming
 
 # 2. Install the package and its dependencies
